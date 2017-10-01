@@ -5,7 +5,7 @@ Accuracy 78%
 
 model summary:
 
-''' input layer - 2D_conv layer with 32 feature map with a size of 3*3. Followed by dropout to 20%
+''' input layer - 2D_conv layer with 32 feature map with a size of 3*3. Followed by dropout to 20% '\n'
     2nd layer - 2D_conv layer with 32 feature map with a size of 3*3. Followed by a max pooling layer of size 2*2.
     3rd layer - 2D_conv layer with 64 feature map of size 3*3. Follwed by dropout layer to 20%
     4th layer - 2D_conv layer with 64 feature map of size 3*3. Follwed by a max pooling layer of size 2*2.
