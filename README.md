@@ -24,3 +24,4 @@ model summary:
         9th layer - Again a fully connected layer with 512 features with relu
                     Dropout of 20%
     output layer - Fully connected output layer with 10 units and a softmax acivation function'''
+
